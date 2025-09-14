@@ -257,7 +257,7 @@ export default function HomePage() {
               ))
             ) : (
               <div className="bg-white p-8 text-center rounded-xl shadow-lg">
-                <p className="text-gray-500">You haven't created any notes yet. Start by adding one!</p>
+                <p className="text-gray-500">You haven&apos;t created any notes yet. Start by adding one!</p>
               </div>
             )}
           </div>
